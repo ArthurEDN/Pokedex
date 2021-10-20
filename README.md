@@ -1,7 +1,7 @@
 
 <h1 align="center">🕹 Pokedex</h1>
 
-<p align="center">>🚀 About the project</p>
+<p align="center">🚀 About the project</p>
 
 This is a site that works like a Pokédex, it displays the following information about 150 different Pokémon:
 
