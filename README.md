@@ -1,13 +1,22 @@
 
-<h1 align="center">🕹 Pokedex</h1>
+<h1 align="center">
+  🕹 Pokédex
+</h1>
 
-<h2>🚀 About the project</h2>
 
-This is a site that works like a Pokédex, it displays the following information about 150 different Pokémon:
+## :rocket: Sobre o projeto
 
-Image
-Name
-Type
-To obtain the Pokémon name, type and image information, the "PokéAPI" API was used.
+Este é um site que funciona como uma pokédex, ele exibe as seguintes informações sobre 150 Pokémons diferentes:
+- Imagem
+- Nome
+- Tipo
 
-Each Pokémon is displayed on a card on the screen, this card has its background color defined according to the type of Pokémon it displays, for example, the "water" type Pokémon have the background color of the blue card, whereas the of the "poison" type the color is green. 
+Para a obter as informações de nome e tipo do Pokémon foi utilizada a API do "PokéAPI", já para a imagem de cada um foi utilizada a API do "https://pokeres.bastionbot.org".
+
+Cada Pokémon é exibido em um card na tela, esse card tem sua cor de fundo definida de acordo com o tipo de Pokémon que ele exibe, por exemplo, os Pokémons de tipo "water" tem a cor de fundo do card azul, já os do tipo "poison" a cor é verde.
+
+## :computer: Tecnologias usadas:
+
+- `Javascript`
+- `HTML`
+- `CSS`
