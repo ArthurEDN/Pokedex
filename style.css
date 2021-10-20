@@ -105,6 +105,15 @@ h1 {
 	background-color: #F5F5F5;
 }
 
+.ghost {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.ghost h2,
+
+.ghost p {
+    color: #fff;
+}
+
 .card:hover {
 	animation: bounce 0.5s linear;
 }
